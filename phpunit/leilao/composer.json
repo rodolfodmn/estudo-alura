@@ -1,0 +1,12 @@
+{
+    "name": "rodolfo/leilao",
+    "description": "aulas de phpunit",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rodolfo Nascimento",
+            "email": "rodolfo.nascimento@bringit.com.br"
+        }
+    ],
+    "require": {}
+}
