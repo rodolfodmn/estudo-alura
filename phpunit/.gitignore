@@ -1,1 +1,2 @@
-leilao/vendor
+vendor/
+.idea/
